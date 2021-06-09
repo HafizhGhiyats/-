@@ -11,6 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  background: #e5d1f0;
 }
 
 a {
@@ -439,7 +440,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #dce8f8;
+  background: #d2e1f3;
   height: 10px;
 }
 
